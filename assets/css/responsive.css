@@ -1,0 +1,217 @@
+@media screen and (max-width: 1440px) {
+
+}
+
+
+@media screen and (max-width: 1040px) {
+
+
+
+}
+
+
+
+@media screen and (max-width: 768px) {
+
+
+
+}
+
+
+
+@media screen and (max-width: 576px) {
+
+
+
+}
+
+
+
+@media screen and (max-width:425px) {
+
+    .time_study_section:after{
+        display: none;
+    }
+    .time_study_section:before{
+        display: none;
+    }
+    .time_study:after{
+        display: none;
+    }
+    .browser_plugin:after{
+        display: none;
+    }
+    .gpt_section:before{
+        display: none;
+    }
+
+    .chat_pdf::before{
+        display: none;
+    }
+    .document:after{
+        display: none;
+    }
+
+    .audio_video:before{
+        display: none;
+    }
+    .audio_video:after{
+        display: none;
+    }
+
+    .diagram_plugin:after{
+        display: none;
+    }
+    .youtube:before{
+        display: none;
+    }
+    .time_study_left_side p {
+        margin-top: 15px;
+      
+        font-size: 18px;
+       
+    }
+
+    .time_study_right_img{
+        margin-top: 70px;
+    }
+
+    .section-padding {
+        padding: 40px 0;
+    }
+
+    .box {
+       
+        padding: 15px;
+     
+        height: 270px;
+    }
+
+    .card-text:last-child {
+       
+        font-size: 14px;
+      
+        
+    }
+    .youtube_left_side img{
+        padding-bottom: 30px;
+    }
+
+    .gpt_prof_right_side img {
+        
+        margin-top: 60px;
+    }
+    .document_left_side img {
+      
+        margin-top: 60px;
+    }
+
+    .audio_video_right_side {
+        margin-top: 18px;
+    }
+    .document_right_side {
+        margin-top: 30px;
+    }
+
+   
+    .browser_list p{
+        font-size: 14px;
+    }
+    .browser_right_side {
+        margin-top: 30px;
+    }
+
+    .browser_right_side h2 {
+        font-size: 30px;
+        
+        padding-bottom: 20px;
+    }
+
+    .gpt_prof_left_side h2 {
+       
+        font-size: 30px;
+    }
+    .gpt_prof_list p {
+     
+        font-size: 14px;
+      
+    }
+    .card_img img {
+        margin-top: 17px;
+        padding-bottom: 15px;
+    }
+
+   
+    .footer_head_list p {
+        margin-top: 8px;
+     
+    }
+
+ .footer_head_list{
+    margin-top: 20px;
+ }
+
+ .footer_head_list p{
+    font-size: 12px;
+ }
+
+ .copy_right {
+ 
+    font-size: 12px;
+   
+}
+
+
+.document_right_side h2{
+   
+    font-size: 30px;
+    
+
+}
+
+.document_right_side h2 {
+   
+    font-size: 30px;
+  
+}
+.document_right_side p {
+    font-size: 14px;
+   
+}
+
+.diagram_plugin_left_side p{
+    font-size: 14px;
+  
+}
+.diagram_plugin_left_side h2 {
+
+    font-size: 30px;
+   
+}
+
+.diagram_plugin_left_side h3 {
+   
+    font-size: 18px;
+  
+    font-weight: 500;
+
+    margin-top: 25px;
+}
+
+.audio_video_right_side p {
+    margin-top: 5px;
+  
+    font-size: 14px;
+
+    line-height: 25px;
+}
+.audio_video_right_side img{
+    margin-top: 60px;
+}
+
+.audio_video_right_side h2 {
+ 
+    font-size: 30px;
+   
+}
+}
