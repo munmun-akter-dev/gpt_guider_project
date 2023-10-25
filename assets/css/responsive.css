@@ -29,6 +29,11 @@
 
 @media screen and (max-width:425px) {
 
+    .feature_head h2 {
+        
+        padding-top: 100px;
+    }
+
     .time_study_section:after{
         display: none;
     }

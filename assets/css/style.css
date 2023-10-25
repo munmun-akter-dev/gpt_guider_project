@@ -275,7 +275,7 @@ line-height: 24px; /* 150% */
 
 
 
-    .time_study:after {
+    /* .time_study:after {
         position: absolute;
         content: '';
         height: 90px;
@@ -284,6 +284,20 @@ line-height: 24px; /* 150% */
         background: #3A1078;
         filter: blur(100px);
         bottom:-300px;
+        left: 50%;
+        transform: translateX(-50%);
+    } */
+
+    .time_study:after {
+        position: absolute;
+        content: '';
+        height: 100px;
+        width: 454px;
+        border-radius: 400px;
+ 
+        background: #3A1078;
+        filter: blur(100px);
+        bottom: -150px;
         left: 50%;
         transform: translateX(-50%);
     }
@@ -531,7 +545,7 @@ font-size: 36px;
 font-style: normal;
 font-weight: 700;
 line-height: 40px; /* 111.111% */
-padding-top: 300px;
+padding-top: 200px;
 }
 
 
